@@ -5,6 +5,9 @@ A powerful web application for university administrators to manage exam schedule
 ## Key Features
 
 -Create, update, and manage exam timetables for all departments.
+
 -Integrate teacher availability into scheduling.
+
 -Push real-time updates to student and teacher platforms.
+
 -Comprehensive control with a secure, role-based system.
