@@ -1,8 +1,10 @@
-# React + Vite
+# E-Admin
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A powerful web application for university administrators to manage exam schedules across all departments. Designed to simplify the scheduling process, this tool ensures efficient communication between administrators, teachers, and students.
 
-Currently, two official plugins are available:
+## Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Create, update, and manage exam timetables for all departments.
+-Integrate teacher availability into scheduling.
+-Push real-time updates to student and teacher platforms.
+-Comprehensive control with a secure, role-based system.
